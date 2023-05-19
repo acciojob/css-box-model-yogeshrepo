@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+div{
+	border: 15px solid blue;
+	padding: 50px;
+	margin: 20px;
+	background-color: lightblue
+}
+.q{
+	width: 300px;
+}
