@@ -4,7 +4,8 @@ div{
 	border: 15px solid blue;
 	padding: 50px;
 	margin: 20px;
-	background-color: lightblue
+	background-color: lightblue;
+	width: 300px;
 }
 .q{
 	width: 300px;
